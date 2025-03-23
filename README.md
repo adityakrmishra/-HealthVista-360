@@ -22,18 +22,18 @@ Commit: "Add README.md with project documentation"
 ```yaml
 ```
 # config/config.yaml
-data_paths:
+```data_paths```:
   raw_medical: "data/raw/medical_records.csv"
   raw_lifestyle: "data/raw/lifestyle_surveys.json"
   external_pollution: "data/external/air_quality.geojson"
 
-model_params:
+```model_params```:
   test_size: 0.2
   random_state: 42
   logistic_regression:
     C: 1.0
     max_iter: 1000
 
-preprocessing:
+```preprocessing```:
   numeric_impute: "median"
   categorical_impute: "mode"
