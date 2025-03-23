@@ -1,0 +1,5 @@
+patient_id,age,bmi,blood_pressure,glucose,disease_risk
+P001,45,28.1,140/90,110,1
+P002,32,24.5,120/80,95,0
+P003,67,31.0,150/95,130,1
+```data source who```
