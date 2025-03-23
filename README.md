@@ -4,7 +4,7 @@ A predictive analytics system for chronic disease risk assessment.
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/HealthVista-360.git
+git clone https://github.com/adityakrmishra/HealthVista-360.git
 pip install -r requirements.txt\
 ```
 ## Directory Structure
